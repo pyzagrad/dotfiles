@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = py.girardin@gmail.com
+	name = PierreYves Girardin
